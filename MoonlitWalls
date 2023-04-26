@@ -1,5 +1,89 @@
 [
 	{
+			"url": "https://raw.githubusercontent.com/wig-dotcom/MoonlitWalls.json/main/Minimal/Untitled%20design%20(15).png",
+			"name": "Enchanted 7",
+			"collections": "Enchanted",
+			"author": "Wigebox"
+		},
+	    {
+			"url": "https://raw.githubusercontent.com/wig-dotcom/MoonlitWalls.json/main/Minimal/Untitled%20design%20(16).png",
+			"name": "Enchanted 8",
+			"collections": "Enchanted",
+			"author": "Wigebox"
+		},
+	    {
+			"url": "https://raw.githubusercontent.com/wig-dotcom/MoonlitWalls.json/main/Minimal/Untitled%20design%20(18).png",
+			"name": "Enchanted 9",
+			"collections": "Enchanted",
+			"author": "Wigebox"
+		},
+	    {
+			"url": "https://raw.githubusercontent.com/wig-dotcom/MoonlitWalls.json/main/Minimal/Untitled%20design%20(40).png",
+			"name": "Enchanted 10",
+			"collections": "Enchanted",
+			"author": "Wigebox"
+		},
+	    {
+			"url": "https://raw.githubusercontent.com/wig-dotcom/MoonlitWalls.json/main/Minimal/Untitled%20design%20(45).png",
+			"name": "Enchanted 11",
+			"collections": "Enchanted",
+			"author": "Wigebox"
+		},
+	    {
+			"url": "https://raw.githubusercontent.com/wig-dotcom/MoonlitWalls.json/main/Minimal/Untitled%20design%20(49).png",
+			"name": "Enchanted 12",
+			"collections": "Enchanted",
+			"author": "Wigebox"
+		},
+	    {
+			"url": "https://raw.githubusercontent.com/wig-dotcom/MoonlitWalls.json/main/Minimal/Your%20paragraph%20text%20(2).png",
+			"name": "Enchanted 13",
+			"collections": "Enchanted",
+			"author": "Wigebox"
+		},
+	    {
+			"url": "https://raw.githubusercontent.com/wig-dotcom/MoonlitWalls.json/main/Minimal/Your%20paragraph%20text%20(3).png",
+			"name": "Enchanted 14",
+			"collections": "Enchanted",
+			"author": "Wigebox"
+		},
+	    {
+			"url": "https://raw.githubusercontent.com/wig-dotcom/MoonlitWalls.json/main/Minimal/Your%20paragraph%20text%20(30).png",
+			"name": "Enchanted 15",
+			"collections": "Enchanted",
+			"author": "Wigebox"
+		},
+	    {
+			"url": "https://raw.githubusercontent.com/wig-dotcom/MoonlitWalls.json/main/Minimal/Your%20paragraph%20text%20(31).png",
+			"name": "Enchanted 16",
+			"collections": "Enchanted",
+			"author": "Wigebox"
+		},
+	    {
+			"url": "https://raw.githubusercontent.com/wig-dotcom/MoonlitWalls.json/main/Minimal/Your%20paragraph%20text%20(5).png",
+			"name": "Enchanted 17",
+			"collections": "Enchanted",
+			"author": "Wigebox"
+		},
+	    {
+			"url": "https://raw.githubusercontent.com/wig-dotcom/MoonlitWalls.json/main/Minimal/Your%20paragraph%20text%20(6).png",
+			"name": "Enchanted 18",
+			"collections": "Enchanted",
+			"author": "Wigebox"
+		},
+	    {
+			"url": "https://raw.githubusercontent.com/wig-dotcom/MoonlitWalls.json/main/Minimal/Your%20paragraph%20text%20(7).png",
+			"name": "Enchanted 19",
+			"collections": "Enchanted",
+			"author": "Wigebox"
+		},
+	    {
+			"url": "https://raw.githubusercontent.com/wig-dotcom/MoonlitWalls.json/main/Minimal/Your%20paragraph%20text%20(8).png",
+			"name": "Enchanted 20",
+			"collections": "Enchanted",
+			"author": "Wigebox"
+	         },
+	    {
 			"url": "https://raw.githubusercontent.com/wig-dotcom/MoonlitWalls.json/main/Handmade/20230217_005754_0000.png",
 			"name": "Handmade 15",
 			"collections": "Handmade",
