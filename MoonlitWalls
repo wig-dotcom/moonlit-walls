@@ -532,7 +532,7 @@
     {
 		"url": "https://raw.githubusercontent.com/Purv06/MoonlitWalls.json/main/Blissful/png_20230331_195146_0000.png",
 		"name": "Blissful 6",
-		"collections": "Blissful",
+		"collections": "hills & valleys",
 		"author": "Wigebox"
 	},
     {
@@ -546,17 +546,16 @@
 		"name": "Blissful 8",
 		"collections": "hills & valleys",
 		"author": "Wigebox"
-	}, {
+	},
+	
+    {
 		"url": "https://raw.githubusercontent.com/Purv06/MoonlitWalls.json/main/Blissful/png_20230331_200740_0000.png",
 		"name": "Blissful 9",
 		"collections": "hills & valleys",
 		"author": "Wigebox"
 	},
 
-
-
-
-	{
+     {
 		"url": "https://raw.githubusercontent.com/Purv06/MoonlitWalls.json/main/Enchanted/Untitled%20design%20(9).png",
 		"name": "Enchanted 1",
 		"collections": "mountain & rivers",
