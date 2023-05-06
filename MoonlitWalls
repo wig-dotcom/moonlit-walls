@@ -1,5 +1,71 @@
 [
-	{
+	 {
+			"url": "https://github.com/wig-dotcom/MoonlitWalls.json/raw/main/Minimal/20230411_233243_0000.png",
+			"name": "Serene 32",
+			"collections": "minimal art",
+			"author": "Wigebox"
+		},
+	    {
+			"url": "https://github.com/wig-dotcom/MoonlitWalls.json/raw/main/Minimal/20230411_233632_0000.png",
+			"name": "Serene 33",
+			"collections": "minimal art",
+			"author": "Wigebox"
+		},
+	    {
+			"url": "https://github.com/wig-dotcom/MoonlitWalls.json/raw/main/Minimal/20230426_234030_0000.png",
+			"name": "serene 34",
+			"collections": "trees & moon",
+			"author": "Wigebox"
+		},
+	    {
+			"url": "https://github.com/wig-dotcom/MoonlitWalls.json/raw/main/Minimal/20230427_200952_0000.png",
+			"name": "Serene 35",
+			"collections": "trees & moon",
+			"author": "Wigebox"
+		},
+	    {
+			"url": "https://github.com/wig-dotcom/MoonlitWalls.json/raw/main/Minimal/20230427_234559_0000.png",
+			"name": "Serene 36",
+			"collections": "minimal art",
+			"author": "Wigebox"
+		},
+	    {
+			"url": "https://github.com/wig-dotcom/MoonlitWalls.json/raw/main/Minimal/20230501_013818_0000.png",
+			"name": "Serene 37",
+			"collections": "waterfall",
+			"author": "Wigebox"
+		},
+	    {
+			"url": "https://github.com/wig-dotcom/MoonlitWalls.json/raw/main/Minimal/20230427_235415_0000.png",
+			"name": "Serene 38",
+			"collections": "minimal art",
+			"author": "Wigebox"
+		},
+	    {
+			"url": "https://github.com/wig-dotcom/MoonlitWalls.json/raw/main/Minimal/png_20230426_072247_0000.png",
+			"name": "minimal 19",
+			"collections": "vector art",
+			"author": "Wigebox"
+		},
+	    {
+			"url": "https://github.com/wig-dotcom/MoonlitWalls.json/raw/main/Minimal/png_20230426_160015_0000.png",
+			"name": "minimal 20",
+			"collections": "vector art",
+			"author": "Wigebox"
+		},
+	    {
+			"url": "https://github.com/wig-dotcom/MoonlitWalls.json/raw/main/Minimal/png_20230427_233700_0000.png",
+			"name": "Serene 39",
+			"collections": "mountain & rivers",
+			"author": "Wigebox"
+		},
+	    {
+			"url": "https://github.com/wig-dotcom/MoonlitWalls.json/raw/main/Minimal/png_20230503_002252_0000.png",
+			"name": "Serene 40",
+			"collections": "snowi peaks",
+			"author": "Wigebox"
+		},
+	    {
 			"url": "https://raw.githubusercontent.com/wig-dotcom/MoonlitWalls.json/main/Minimal/Your%20paragraph%20text%20(25).png",
 			"name": "Blissful 10",
 			"collections": "hills & valleys",
