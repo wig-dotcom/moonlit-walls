@@ -1,5 +1,47 @@
 [
-	{
+	  {
+			"url": "https://github.com/wig-dotcom/MoonlitWalls.json/raw/main/Handmade/20230428_000526_0000.png",
+			"name": "Serene 52",
+			"collections": "vector art",
+			"author": "Wigebox"
+		},
+	    {
+			"url": "https://github.com/wig-dotcom/MoonlitWalls.json/raw/main/Handmade/20230527_005019_0000.png",
+			"name": "Serene 53",
+			"collections": "minimal art",
+			"author": "Wigebox"
+		},
+	    {
+			"url": "https://github.com/wig-dotcom/MoonlitWalls.json/raw/main/Handmade/20230618_153810_0000.png",
+			"name": "serene 54",
+			"collections": "minimal art",
+			"author": "Wigebox"
+		},
+	    {
+			"url": "https://github.com/wig-dotcom/MoonlitWalls.json/raw/main/Handmade/Searching.png",
+			"name": "Serene 55",
+			"collections": "mountain $ rivers",
+			"author": "Wigebox"
+		},
+	    {
+			"url": "https://github.com/wig-dotcom/MoonlitWalls.json/raw/main/Handmade/Sunset On Mars - Green.png",
+			"name": "Serene 56",
+			"collections": "minimal art",
+			"author": "Wigebox"
+		},
+	    {
+			"url": "https://github.com/wig-dotcom/MoonlitWalls.json/raw/main/Handmade/png_20230525_164752_0000.png",
+			"name": "Serene 57",
+			"collections": "snowi peak",
+			"author": "Wigebox"
+		},
+	    {
+			"url": "https://github.com/wig-dotcom/MoonlitWalls.json/raw/main/Handmade/IMG_20230427_124847.png",
+			"name": "Serene 58",
+			"collections": "snowi peak",
+			"author": "Wigebox"
+		},
+        {
 			"url": "https://raw.githubusercontent.com/wig-dotcom/MoonlitWalls.json/main/Handmade/1500x3000.png",
 			"name": "Blissful 38",
 			"collections": "mountain & rivers",
