@@ -1,5 +1,65 @@
 [
 	 {
+			"url": "https://github.com/wig-dotcom/MoonlitWalls.json/raw/main/Handmade/California Valley Dawn - iPhone.jpg",
+			"name": "california valley dawn",
+			"collections": "minimal art",
+			"author": "Wigebox"
+		},
+	    {
+			"url": "https://github.com/wig-dotcom/MoonlitWalls.json/raw/main/Handmade/Cloudy Black - iPhone.jpg",
+			"name": "clowdy black",
+			"collections": "minimal art",
+			"author": "Wigebox"
+		},
+	    {
+			"url": "https://github.com/wig-dotcom/MoonlitWalls.json/raw/main/Handmade/Seaside Night - iPhone.jpg",
+			"name": "seaside night",
+			"collections": "minimal art",
+			"author": "Wigebox"
+		},
+	    {
+			"url": "https://github.com/wig-dotcom/MoonlitWalls.json/raw/main/Handmade/Space Race Mars - iPhone.jpg",
+			"name": "space race",
+			"collections": "hills & valleys",
+			"author": "Wigebox"
+		},
+	    {
+			"url": "https://github.com/wig-dotcom/MoonlitWalls.json/raw/main/Handmade/man-on-the-snowy-horizon-art-minimalist-wallpaper-scaled.jpg",
+			"name": "man on horizon",
+			"collections": "hills & valleys",
+			"author": "Wigebox"
+		},
+	    {
+			"url": "https://github.com/wig-dotcom/MoonlitWalls.json/raw/main/Handmade//png_20230416_231550_0000.png",
+			"name": "green scenery",
+			"collections": "mountain & rivers ",
+			"author": "Wigebox"
+		},
+	    {
+			"url": "https://github.com/wig-dotcom/MoonlitWalls.json/raw/main/Handmade//png_20230417_082353_0000.png",
+			"name": "blue clouds",
+			"collections": "hills & valleys",
+			"author": "Wigebox"
+		},
+	    {
+			"url": "https://github.com/wig-dotcom/MoonlitWalls.json/raw/main/Handmade///png_20230427_232342_0000.png",
+			"name": "blue beach",
+			"collections": "valleys & deserts",
+			"author": "Wigebox"
+		},
+	    {
+			"url": "https://github.com/wig-dotcom/MoonlitWalls.json/raw/main/Handmade///png_20230502_000428_0000.png",
+			"name": "coco shadow",
+			"collections": "mountain & rivers",
+			"author": "Wigebox"
+		},
+	    {
+			"url": "https://github.com/wig-dotcom/MoonlitWalls.json/raw/main/Handmade///png_20230717_233817_0000.png",
+			"name": "bird on wire",
+			"collections": "minimal art",
+			"author": "Wigebox"
+		},
+            {
 			"url": "https://raw.githubusercontent.com/wig-dotcom/MoonlitWalls.json/main/Handmade/20230428_001653_0000.png",
 			"name": "tricycle",
 			"collections": "minimal art",
