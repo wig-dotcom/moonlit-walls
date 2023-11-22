@@ -1,5 +1,53 @@
 [
         {
+			"url": "https://raw.githubusercontent.com/wig-dotcom/MoonlitWalls.json/main/Minimal/MORPH%20(5).png",
+			"name": "wave synth",
+			"collections": "minimal art",
+			"author": "Wigebox"
+		},
+	    {
+			"url": "https://raw.githubusercontent.com/wig-dotcom/MoonlitWalls.json/main/Minimal/Untitled%20design%20(16).png",
+			"name": "sunny night",
+			"collections": "minimal art",
+			"author": "Wigebox"
+		},
+	    {
+			"url": "https://raw.githubusercontent.com/wig-dotcom/MoonlitWalls.json/main/Minimal/Untitled%20design%20(19).png",
+			"name": "irregular shapes",
+			"collections": "minimal art",
+			"author": "Wigebox"
+		},
+	    {
+			"url": "https://raw.githubusercontent.com/wig-dotcom/MoonlitWalls.json/main/Minimal/Untitled%20design%20(20).png",
+			"name": "sunshine hue",
+			"collections": "minimal art",
+			"author": "Wigebox"
+		},
+	    {
+			"url": "https://raw.githubusercontent.com/wig-dotcom/MoonlitWalls.json/main/Minimal/Untitled%20design%20(15).png",
+			"name": "yellow fume",
+			"collections": "minimal art",
+			"author": "Wigebox"
+		},
+	    {
+			"url": "https://raw.githubusercontent.com/wig-dotcom/MoonlitWalls.json/main/Minimal/Untitled%20design%20(28).png",
+			"name": "geo treck",
+			"collections": "minimal art",
+			"author": "Wigebox"
+		},
+	    {
+			"url": "https://raw.githubusercontent.com/wig-dotcom/MoonlitWalls.json/main/Minimal/Untitled%20design%20(3).png",
+			"name": "blue sphere",
+			"collections": "minimal art",
+			"author": "Wigebox"
+		},
+	    {
+			"url": "https://raw.githubusercontent.com/wig-dotcom/MoonlitWalls.json/main/Minimal/Untitled%20design_20230902_160555_0000.png",
+			"name": "twisted wave",
+			"collections": "minimal art",
+			"author": "Wigebox"
+		},
+            {
 			"url": "https://github.com/wig-dotcom/MoonlitWalls.json/raw/main/Minimal/Untitled%20design%20(11).png",
 			"name": "spectre rise",
 			"collections": "sea side",
