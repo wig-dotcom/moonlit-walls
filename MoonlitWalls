@@ -1,5 +1,35 @@
 [
-      {
+    {
+			"url": "https://raw.githubusercontent.com/wig-dotcom/MoonlitWalls.json/main/Minimal/Twilight%20Breeze%20night.jpg",
+			"name": "twilight breeze night",
+			"collections": "minimal art",
+			"author": "Wigebox"
+		},
+	    {
+			"url": "https://raw.githubusercontent.com/wig-dotcom/MoonlitWalls.json/main/Minimal/city%20nights.png",
+			"name": "city nights",
+			"collections": "minimal art",
+			"author": "Wigebox"
+		},
+	    {
+			"url": "https://raw.githubusercontent.com/wig-dotcom/MoonlitWalls.json/main/Minimal/sky%20is%20the%20limit.png",
+			"name": "sky is the limit",
+			"collections": "minimal art",
+			"author": "Wigebox"
+		},
+	    {
+			"url": "https://raw.githubusercontent.com/wig-dotcom/MoonlitWalls.json/main/Minimal/surf%20queen.png",
+			"name": "surf queen",
+			"collections": "beach side",
+			"author": "Wigebox"
+		},
+	    {
+			"url": "https://raw.githubusercontent.com/wig-dotcom/MoonlitWalls.json/main/Minimal/two%20boats.png",
+			"name": "two boats",
+			"collections": "beach side",
+			"author": "Wigebox"
+		},
+            {
 			"url": "https://raw.githubusercontent.com/wig-dotcom/MoonlitWalls.json/main/Handmade/PhotoFix_1691603053531.jpeg",
 			"name": "two of them",
 			"collections": "minimal art",
