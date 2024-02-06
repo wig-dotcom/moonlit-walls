@@ -1,5 +1,35 @@
 [
-    {
+   {
+			"url": "https://raw.githubusercontent.com/wig-dotcom/MoonlitWalls.json/main/Minimal/Menu%20(12).png",
+			"name": "horizons",
+			"collections": "dark",
+			"author": "Wigebox"
+		},
+	    {
+			"url": "https://raw.githubusercontent.com/wig-dotcom/MoonlitWalls.json/main/Minimal/Untitled%20design%20(40).png",
+			"name": "lost but alive",
+			"collections": "hillside",
+			"author": "Wigebox"
+		},
+	    {
+			"url": "https://raw.githubusercontent.com/wig-dotcom/MoonlitWalls.json/main/Minimal/Untitled%20design%20(56).png",
+			"name": "deep shadow",
+			"collections": "mountain & rivers",
+			"author": "Wigebox"
+		},
+	    {
+			"url": "https://raw.githubusercontent.com/wig-dotcom/MoonlitWalls.json/main/Minimal/Untitled%20design%20(62).png",
+			"name": "distant",
+			"collections": "trees & moon",
+			"author": "Wigebox"
+		},
+	    {
+			"url": "https://raw.githubusercontent.com/wig-dotcom/MoonlitWalls.json/main/Minimal/Untitled%20design%20(59).png",
+			"name": "desolation",
+			"collections": "dark",
+			"author": "Wigebox"
+		},
+            {
 			"url": "https://raw.githubusercontent.com/wig-dotcom/MoonlitWalls.json/main/Minimal/Twilight%20Breeze%20night.jpg",
 			"name": "twilight breeze night",
 			"collections": "minimal art",
