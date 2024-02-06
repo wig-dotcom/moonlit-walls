@@ -1,5 +1,29 @@
 [
-   {
+  {
+			"url": "https://raw.githubusercontent.com/wig-dotcom/MoonlitWalls.json/main/Minimal/Menu%20(20).png",
+			"name": "sine world",
+			"collections": "dark",
+			"author": "Wigebox"
+		},
+	    {
+			"url": "https://raw.githubusercontent.com/wig-dotcom/MoonlitWalls.json/main/Minimal/Menu%20(22).png",
+			"name": "betrayal",
+			"collections": "dark",
+			"author": "Wigebox"
+		},
+	    {
+			"url": "https://raw.githubusercontent.com/wig-dotcom/MoonlitWalls.json/main/Minimal/Menu%20(30).png",
+			"name": "night breeze",
+			"collections": "mountain & rivers",
+			"author": "Wigebox"
+		},
+	    {
+			"url": "https://raw.githubusercontent.com/wig-dotcom/MoonlitWalls.json/main/Minimal/Menu%20(32).png",
+			"name": "dusk",
+			"collections": "dark",
+			"author": "Wigebox"
+		},
+	    {
 			"url": "https://raw.githubusercontent.com/wig-dotcom/MoonlitWalls.json/main/Minimal/Menu%20(12).png",
 			"name": "horizons",
 			"collections": "dark",
