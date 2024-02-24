@@ -1,5 +1,41 @@
 [
-  {
+       {
+			"url": "https://raw.githubusercontent.com/wig-dotcom/MoonlitWalls.json/main/Minimal/evening%20dawn.png",
+			"name": "evening dawn",
+			"collections": "minimal art",
+			"author": "Wigebox"
+		},
+	    {
+			"url": "https://raw.githubusercontent.com/wig-dotcom/MoonlitWalls.json/main/Minimal/featured%20creature.png",
+			"name": "featured creature",
+			"collections": "minimal art",
+			"author": "Wigebox"
+		},
+	    {
+			"url": "https://raw.githubusercontent.com/wig-dotcom/MoonlitWalls.json/main/Minimal/forest%20gump.png",
+			"name": "forest gump",
+			"collections": "minimal art",
+			"author": "Wigebox"
+		},
+	    {
+			"url": "https://raw.githubusercontent.com/wig-dotcom/MoonlitWalls.json/main/Minimal/home%20story.png",
+			"name": "home story",
+			"collections": "minimal art",
+			"author": "Wigebox"
+		},
+	    {
+			"url": "https://raw.githubusercontent.com/wig-dotcom/MoonlitWalls.json/main/Minimal/the%20farm.png",
+			"name": "minimal farm",
+			"collections": "minimal art",
+			"author": "Wigebox"
+		},
+	    {
+			"url": "https://raw.githubusercontent.com/wig-dotcom/MoonlitWalls.json/main/Minimal/the%20wood%20picker.png",
+			"name": "the woodpicker",
+			"collections": "minimal art",
+			"author": "Wigebox"
+		},
+            {
 			"url": "https://raw.githubusercontent.com/wig-dotcom/MoonlitWalls.json/main/Minimal/Menu%20(20).png",
 			"name": "sine world",
 			"collections": "dark",
