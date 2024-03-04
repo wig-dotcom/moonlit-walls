@@ -1,5 +1,35 @@
 [
-       {
+      {
+			"url": "https://raw.githubusercontent.com/wig-dotcom/MoonlitWalls.json/main/Minimal/a%20new%20dimension.png",
+			"name": "a new dimension",
+			"collections": "minimal art",
+			"author": "Wigebox"
+		},
+	    {
+			"url": "https://raw.githubusercontent.com/wig-dotcom/MoonlitWalls.json/main/Minimal/fun%20with%20wave.png",
+			"name": "fun with wave",
+			"collections": "minimal art",
+			"author": "Wigebox"
+		},
+	    {
+			"url": "https://raw.githubusercontent.com/wig-dotcom/MoonlitWalls.json/main/Minimal/island%20hut.png",
+			"name": "island hut",
+			"collections": "minimal art",
+			"author": "Wigebox"
+		},
+	    {
+			"url": "https://raw.githubusercontent.com/wig-dotcom/MoonlitWalls.json/main/Minimal/paper%20boat.png",
+			"name": "paper boat",
+			"collections": "minimal art",
+			"author": "Wigebox"
+		},
+	    {
+			"url": "https://raw.githubusercontent.com/wig-dotcom/MoonlitWalls.json/main/Minimal/violet%20vertue.png",
+			"name": "violet vertue",
+			"collections": "minimal art",
+			"author": "Wigebox"
+		},
+            {
 			"url": "https://raw.githubusercontent.com/wig-dotcom/MoonlitWalls.json/main/Minimal/evening%20dawn.png",
 			"name": "evening dawn",
 			"collections": "minimal art",
