@@ -1,5 +1,39 @@
 [
-     {
+     		{
+			"url": "https://raw.githubusercontent.com/wig-dotcom/MoonlitWalls.json/main/Minimal/light on the sea.png",
+			"name": "Light on the Sea",
+			"collections": "minimal art",
+			"author": "Wigebox"
+		},
+	    	{
+			"url": "https://raw.githubusercontent.com/wig-dotcom/MoonlitWalls.json/main/Minimal/moonlight.png",
+			"name": "moonlight",
+			"collections": "minimal art",
+			"author": "Wigebox"
+		},
+	    	{
+			"url": "https://raw.githubusercontent.com/wig-dotcom/MoonlitWalls.json/main/Minimal/sand mountains.png",
+			"name": "sand mountains",
+			"collections": "minimal art",
+			"author": "Wigebox"
+		},
+	    	{
+			"url": "https://raw.githubusercontent.com/wig-dotcom/MoonlitWalls.json/main/Minimal/spirit of stallion.png",
+			"name": "spirit of stallion",
+			"collections": "minimal art",
+			"author": "Wigebox"
+		},
+	   	{
+			"url": "https://raw.githubusercontent.com/wig-dotcom/MoonlitWalls.json/main/Minimal/sun in your eyes.png",
+			"name": "sun in your eyes",
+			"collections": "minimal art",
+			"author": "Wigebox"
+		},
+
+
+
+
+		{
 			"url": "https://raw.githubusercontent.com/wig-dotcom/MoonlitWalls.json/main/Minimal/a%20night%20on%20river.png",
 			"name": "night on the river",
 			"collections": "minimal art",
