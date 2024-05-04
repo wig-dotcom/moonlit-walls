@@ -1,5 +1,48 @@
 [
-		{
+	{
+			"url": "https://raw.githubusercontent.com/wig-dotcom/MoonlitWalls.json/main/Handmade/Mandarian%20on%20his%20way.png",
+			"name": "madarian on his way",
+			"collections": "minimal art",
+			"author": "Wigebox"
+		},
+	    {
+			"url": "https://raw.githubusercontent.com/wig-dotcom/MoonlitWalls.json/main/Handmade/back%20to%20home.png",
+			"name": "back to home",
+			"collections": "hills & valleys",
+			"author": "Wigebox"
+		},
+	    {
+			"url": "https://raw.githubusercontent.com/wig-dotcom/MoonlitWalls.json/main/Handmade/blowing%20the%20wind.png",
+			"name": "blowing the wind",
+			"collections": "enchanted",
+			"author": "Wigebox"
+		},
+	    {
+			"url": "https://raw.githubusercontent.com/wig-dotcom/MoonlitWalls.json/main/Handmade/deer%20story.png",
+			"name": "deer story",
+			"collections": "deer",
+			"author": "Wigebox"
+		},
+	    {
+			"url": "https://raw.githubusercontent.com/wig-dotcom/MoonlitWalls.json/main/Handmade/man%20on%20the%20rock.png",
+			"name": "man on the rock",
+			"collections": "mountain & rivers",
+			"author": "Wigebox"
+		},
+	    {
+			"url": "https://raw.githubusercontent.com/wig-dotcom/MoonlitWalls.json/main/Handmade/three%20of%20them.png",
+			"name": "three of them",
+			"collections": "city scape",
+			"author": "Wigebox"
+		},
+            {
+			"url": "https://raw.githubusercontent.com/wig-dotcom/MoonlitWalls.json/main/Handmade/rick%20with%20morty.png",
+			"name": "rick and morty",
+			"collections": "hillside",
+			"author": "Wigebox"
+		},
+	    {
+
 			"url": "https://raw.githubusercontent.com/wig-dotcom/MoonlitWalls.json/main/Minimal/beryl.jpg",
 			"name": "beryl",
 			"collections": "minimal art",
