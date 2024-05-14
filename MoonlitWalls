@@ -1,5 +1,41 @@
 [
 	{
+			"url": "https://raw.githubusercontent.com/wig-dotcom/MoonlitWalls.json/main/Handmade/snow%20hut.png",
+			"name": "snow hut",
+			"collections": "snowi peak",
+			"author": "Wigebox"
+		},
+	    {
+			"url": "https://raw.githubusercontent.com/wig-dotcom/MoonlitWalls.json/main/Handmade/the%20light%20pole.png",
+			"name": "light pol",
+			"collections": "hills & valleys",
+			"author": "Wigebox"
+		},
+	    {
+			"url": "https://raw.githubusercontent.com/wig-dotcom/MoonlitWalls.json/main/Handmade/the%20landing.png",
+			"name": "the landing",
+			"collections": "enchanted",
+			"author": "Wigebox"
+		},
+	    {
+			"url": "https://raw.githubusercontent.com/wig-dotcom/MoonlitWalls.json/main/Handmade/two%20swans.png",
+			"name": "two swans",
+			"collections": mountain & rivers",
+			"author": "Wigebox"
+		},
+	    {
+			"url": "https://raw.githubusercontent.com/wig-dotcom/MoonlitWalls.json/main/Handmade/luminosity.png",
+			"name": "luminosity",
+			"collections": "mountain & rivers",
+			"author": "Wigebox"
+		},
+	    {
+			"url": "https://raw.githubusercontent.com/wig-dotcom/MoonlitWalls.json/main/Handmade/V1-SIMPLE-LANDSCAPE-4K.png",
+			"name": "simple landscape",
+			"collections": "hills & valleys",
+			"author": "Wigebox"
+		},
+            {
 			"url": "https://raw.githubusercontent.com/wig-dotcom/MoonlitWalls.json/main/Handmade/Mandarian%20on%20his%20way.png",
 			"name": "madarian on his way",
 			"collections": "minimal art",
