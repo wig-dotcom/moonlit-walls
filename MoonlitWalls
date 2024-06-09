@@ -1,5 +1,35 @@
 [
 	{
+			"url": "https://raw.githubusercontent.com/wig-dotcom/MoonlitWalls.json/main/Minimal/arabian%20desert.png",
+			"name": "arabian desert",
+			"collections": "valleys & deserts",
+			"author": "Wigebox"
+		},
+	    {
+			"url": "https://raw.githubusercontent.com/wig-dotcom/MoonlitWalls.json/main/Minimal/fortnight.png",
+			"name": "fortnight",
+			"collections": "city scape",
+			"author": "Wigebox"
+		},
+	    {
+			"url": "https://raw.githubusercontent.com/wig-dotcom/MoonlitWalls.json/main/Minimal/lion%20king.png",
+			"name": "lion king",
+			"collections": "deer",
+			"author": "Wigebox"
+		},
+	    {
+			"url": "https://raw.githubusercontent.com/wig-dotcom/MoonlitWalls.json/main/Minimal/paradise.png",
+			"name": "paradise",
+			"collections": "mountain & rivers",
+			"author": "Wigebox"
+		},
+	    {
+			"url": "https://raw.githubusercontent.com/wig-dotcom/MoonlitWalls.json/main/Minimal/team%20eclips.png",
+			"name": "team eclips",
+			"collections": "mountain & rivers",
+			"author": "Wigebox"
+		},
+            {
 			"url": "https://raw.githubusercontent.com/wig-dotcom/MoonlitWalls.json/main/Handmade/Daylight.png",
 			"name": "daylight",
 			"collections": "hillside",
