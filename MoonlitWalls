@@ -1,5 +1,41 @@
 [
-	{
+	 {
+			"url": "https://raw.githubusercontent.com/wig-dotcom/MoonlitWalls.json/main/Minimal/Sonoma%20Hills.jpg",
+			"name": "sonama hills",
+			"collections": "valleys & deserts",
+			"author": "Wigebox"
+		},
+	    {
+			"url": "https://raw.githubusercontent.com/wig-dotcom/MoonlitWalls.json/main/Minimal/blue%20horizon.png",
+			"name": "blue horizon",
+			"collections": "city scape",
+			"author": "Wigebox"
+		},
+	    {
+			"url": "https://raw.githubusercontent.com/wig-dotcom/MoonlitWalls.json/main/Minimal/evening%20of%20silence.png",
+			"name": "evening of silence",
+			"collections": "deer",
+			"author": "Wigebox"
+		},
+	    {
+			"url": "https://raw.githubusercontent.com/wig-dotcom/MoonlitWalls.json/main/Minimal/race%20to%20win.png",
+			"name": "race tom win",
+			"collections": "mountain & rivers",
+			"author": "Wigebox"
+		},
+	    {
+			"url": "https://raw.githubusercontent.com/wig-dotcom/MoonlitWalls.json/main/Minimal/silence%20of%20nature.png",
+			"name": "team eclips",
+			"collections": "mountain & rivers",
+			"author": "Wigebox"
+		},
+	    {
+			"url": "https://raw.githubusercontent.com/wig-dotcom/MoonlitWalls.json/main/Minimal/yellow%20shadow.png",
+			"name": "yellow shadow",
+			"collections": "hills & valleys",
+			"author": "Wigebox"
+		},
+            {
 			"url": "https://raw.githubusercontent.com/wig-dotcom/MoonlitWalls.json/main/Minimal/arabian%20desert.png",
 			"name": "arabian desert",
 			"collections": "valleys & deserts",
