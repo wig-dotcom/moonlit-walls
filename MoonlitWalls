@@ -1,28 +1,4 @@
 [
-	{
-			"url": "https://raw.githubusercontent.com/wig-dotcom/MoonlitWalls.json/main/Minimal/IMG_20240622_003705_172.jpg",
-			"name": "pacific crest",
-			"collections": "valleys & deserts",
-			"author": "Wigebox"
-		},
-	    {
-			"url": "https://raw.githubusercontent.com/wig-dotcom/MoonlitWalls.json/main/Minimal/IMG_20240622_101825_357.jpg",
-			"name": "red horizon",
-			"collections": "city scape",
-			"author": "Wigebox"
-		},
-	    {
-			"url": "https://raw.githubusercontent.com/wig-dotcom/MoonlitWalls.json/main/Minimal/IMG_20240622_101848_189.jpg",
-			"name": "scenic orange",
-			"collections": "mountain & rivers",
-			"author": "Wigebox"
-		},
-	    {
-			"url": "https://raw.githubusercontent.com/wig-dotcom/MoonlitWalls.json/main/Minimal/IMG_20240622_102010_914.jpg",
-			"name": "the fogs in the crest",
-			"collections": "mountain & rivers",
-			"author": "Wigebox"
-		},
             {
 			"url": "https://raw.githubusercontent.com/wig-dotcom/MoonlitWalls.json/main/Minimal/Sonoma%20Hills.jpg",
 			"name": "sonama hills",
