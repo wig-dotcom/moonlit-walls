@@ -1,4 +1,46 @@
 [
+         {
+			"url": "https://raw.githubusercontent.com/wig-dotcom/MoonlitWalls.json/main/Minimal/green%20horizon.jpg",
+			"name": "green horizon",
+			"collections": "valleys & deserts",
+			"author": "Wigebox"
+		},
+	    {
+			"url": "https://raw.githubusercontent.com/wig-dotcom/MoonlitWalls.json/main/Minimal/whimsical%20peaks.jpg",
+			"name": "whimsical peaks",
+			"collections": "city scape",
+			"author": "Wigebox"
+		},
+	    {
+			"url": "https://raw.githubusercontent.com/wig-dotcom/MoonlitWalls.json/main/Minimal/the%20red%20mountains.jpg",
+			"name": "the red mountains",
+			"collections": "mountain & rivers",
+			"author": "Wigebox"
+		},
+	    {
+			"url": "https://raw.githubusercontent.com/wig-dotcom/MoonlitWalls.json/main/Minimal/snow%20forest.png",
+			"name": "snow forest",
+			"collections": "snowipeak",
+			"author": "Wigebox"
+		},
+	    {
+			"url": "https://raw.githubusercontent.com/wig-dotcom/MoonlitWalls.json/main/Minimal/pacific%20crest.jpg",
+			"name": "pacific crest",
+			"collections": "mountain & rivers",
+			"author": "Wigebox"
+		},
+	    {
+			"url": "https://raw.githubusercontent.com/wig-dotcom/MoonlitWalls.json/main/Minimal/love%20in%20the%20fogs.jpg",
+			"name": "love in the fogs",
+			"collections": "hills & valleys",
+			"author": "Wigebox"
+		},
+            {
+			"url": "https://raw.githubusercontent.com/wig-dotcom/MoonlitWalls.json/main/Minimal/light%20in%20the%20clouds.png",
+			"name": "light in the clouds",
+			"collections": "hillside",
+			"author": "Wigebox"
+		},
             {
 			"url": "https://raw.githubusercontent.com/wig-dotcom/MoonlitWalls.json/main/Minimal/Sonoma%20Hills.jpg",
 			"name": "sonama hills",
