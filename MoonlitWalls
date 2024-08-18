@@ -1,8 +1,50 @@
 [
-      {
+     {
+			"url": "https://raw.githubusercontent.com/wig-dotcom/MoonlitWalls.json/main/Minimal/blooms%20of%20nature.png",
+			"name": "blooms of nature",
+			"collections": "seaside",
+			"author": "Wigebox"
+		},
+	    {
+			"url": "https://raw.githubusercontent.com/wig-dotcom/MoonlitWalls.json/main/Minimal/desert%20moon%20day.png",
+			"name": "desert moon day",
+			"collections": "minimal art",
+			"author": "Wigebox"
+		},
+	    {
+			"url": "https://raw.githubusercontent.com/wig-dotcom/MoonlitWalls.json/main/Minimal/desert%20moon%20night.png",
+			"name": "desert moon night",
+			"collections": "minimal art",
+			"author": "Wigebox"
+		},
+	    {
+			"url": "https://raw.githubusercontent.com/wig-dotcom/MoonlitWalls.json/main/Minimal/luminosity.png",
+			"name": "luminosity",
+			"collections": "minimal art",
+			"author": "Wigebox"
+		},
+	    {
+			"url": "https://raw.githubusercontent.com/wig-dotcom/MoonlitWalls.json/main/Minimal/sailing%20coast.png",
+			"name": "sailing coast",
+			"collections": "seaside",
+			"author": "Wigebox"
+		},
+	    {
+			"url": "https://raw.githubusercontent.com/wig-dotcom/MoonlitWalls.json/main/Minimal/shadow%20crest.png",
+			"name": "shadow crest",
+			"collections": "hillside",
+			"author": "Wigebox"
+		},
+            {
+			"url": "https://raw.githubusercontent.com/wig-dotcom/MoonlitWalls.json/main/Minimal/skate%20to%20heaven.png",
+			"name": "skate to heaven",
+			"collections": "snowipeaks",
+			"author": "Wigebox"
+		},
+	    {
 			"url": "https://raw.githubusercontent.com/wig-dotcom/MoonlitWalls.json/main/Handmade/arctic%20dune.png",
 			"name": "arctic dune",
-			"collections": "snoyipeaks",
+			"collections": "snowipeaks",
 			"author": "Wigebox"
 		},
 	    {
