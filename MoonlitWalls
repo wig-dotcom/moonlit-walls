@@ -1,5 +1,17 @@
 [
-     {
+    {
+			"url": "https://raw.githubusercontent.com/wig-dotcom/MoonlitWalls.json/main/Handmade/close%20of%20day.png,
+			"name": "close of day",
+			"collections": "minimal art",
+			"author": "Wigebox"
+		},
+	    {
+			"url": "https://raw.githubusercontent.com/wig-dotcom/MoonlitWalls.json/main/Handmade/forest%20gump.png",
+			"name": "forest gump",
+			"collections": "deer",
+			"author": "Wigebox"
+		},
+            {
 			"url": "https://raw.githubusercontent.com/wig-dotcom/MoonlitWalls.json/main/Handmade/boon%20companion.png",
 			"name": "boon companion",
 			"collections": "minimal art",
