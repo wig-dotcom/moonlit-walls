@@ -1,4 +1,40 @@
 [
+           {
+			"url": "https://raw.githubusercontent.com/wig-dotcom/MoonlitWalls.json/refs/heads/main/Handmade/blue%20heaven.png,
+			"name": "blue heaven",
+			"collections": "serene",
+			"author": "Wigebox"
+		},
+	    {
+			"url": "https://raw.githubusercontent.com/wig-dotcom/MoonlitWalls.json/refs/heads/main/Handmade/desert%20inspired.png",
+			"name": "desert inspired",
+			"collections": "valleys & deserts",
+			"author": "Wigebox"
+		},
+	    {
+			"url": "https://raw.githubusercontent.com/wig-dotcom/MoonlitWalls.json/refs/heads/main/Handmade/hut%20inspired.png",
+			"name": "hut inspired",
+			"collections": "valleys & deserts",
+			"author": "Wigebox"
+		},
+	    {
+			"url": "https://raw.githubusercontent.com/wig-dotcom/MoonlitWalls.json/refs/heads/main/Handmade/mellow%20in%20sunlight.jpg",
+			"name": "mellow in sunlight",
+			"collections": "enchanted",
+			"author": "Wigebox"
+		},
+	    {
+			"url": "https://raw.githubusercontent.com/wig-dotcom/MoonlitWalls.json/refs/heads/main/Handmade/shine%20of%20doe.png",
+			"name": "shine of doe",
+			"collections": "deer",
+			"author": "Wigebox"
+		},
+	    {
+			"url": "https://raw.githubusercontent.com/wig-dotcom/MoonlitWalls.json/refs/heads/main/Handmade/white%20cabin.png",
+			"name": "white cabin",
+			"collections": "hillside",
+			"author": "Wigebox"
+		},
             {
 		        "url": "https://raw.githubusercontent.com/wig-dotcom/MoonlitWalls.json/main/Handmade/close%20of%20day.png",
 			"name": "close of day",
