@@ -1,5 +1,35 @@
 [
-         {
+        {
+			"url": "https://raw.githubusercontent.com/wig-dotcom/MoonlitWalls.json/refs/heads/main/Handmade/abode%20in%20desert.png",
+			"name": "abode in desert",
+			"collections": "valleys & deserts",
+			"author": "Wigebox"
+		},
+	    {
+			"url": "https://raw.githubusercontent.com/wig-dotcom/MoonlitWalls.json/refs/heads/main/Handmade/afterglow.png",
+			"name": "afterglow",
+			"collections": "deer",
+			"author": "Wigebox"
+		},
+	    {
+			"url": "https://raw.githubusercontent.com/wig-dotcom/MoonlitWalls.json/refs/heads/main/Handmade/golden%20sun.png",
+			"name": "golden sun",
+			"collections": "hills & valleys",
+			"author": "Wigebox"
+		},
+	    {
+			"url": "https://raw.githubusercontent.com/wig-dotcom/MoonlitWalls.json/refs/heads/main/Handmade/wavy%20craft.png",
+			"name": "wavy craft",
+			"collections": "minimal art",
+			"author": "Wigebox"
+		},
+	    {
+			"url": "https://raw.githubusercontent.com/wig-dotcom/MoonlitWalls.json/refs/heads/main/Handmade/wildebeest.png",
+			"name": "wildebeest,
+			"collections": "trees & moon",
+			"author": "Wigebox"
+            {
+                },
 			"url": "https://raw.githubusercontent.com/wig-dotcom/MoonlitWalls.json/refs/heads/main/Minimal/caravan%20in%20thar.png",
 			"name": "caravan in thar",
 			"collections": "valleys & deserts",
