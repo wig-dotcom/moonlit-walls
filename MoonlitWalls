@@ -1,5 +1,47 @@
 [
-         {
+        {
+			"url": "https://raw.githubusercontent.com/wig-dotcom/MoonlitWalls.json/refs/heads/main/Minimal/Gold%20coast.jpg",
+			"name": "gold coast",
+			"collections": "valleys & deserts",
+			"author": "Wigebox"
+		},
+	    {
+			"url": "https://raw.githubusercontent.com/wig-dotcom/MoonlitWalls.json/refs/heads/main/Minimal/Mountain%20Breeze%20Twilight.jpg",
+			"name": "mountain breeze twilight",
+			"collections": "serene",
+			"author": "Wigebox"
+		},
+	    {
+			"url": "https://raw.githubusercontent.com/wig-dotcom/MoonlitWalls.json/refs/heads/main/Minimal/Untitled%20design%20(31).png",
+			"name": "the meerkat",
+			"collections": "hills & valleys",
+			"author": "Wigebox"
+		},
+	    {
+			"url": "https://raw.githubusercontent.com/wig-dotcom/MoonlitWalls.json/refs/heads/main/Minimal/cool%20garden.jpg",
+			"name": "cool garden",
+			"collections": "serene",
+			"author": "Wigebox"
+		},
+	    {
+			"url": "https://raw.githubusercontent.com/wig-dotcom/MoonlitWalls.json/refs/heads/main/Minimal/forest%20Breeze.jpg",
+			"name": "forest breeze",
+			"collections": "serene",
+			"author": "Wigebox"
+		},
+	    {
+			"url": "https://raw.githubusercontent.com/wig-dotcom/MoonlitWalls.json/refs/heads/main/Minimal/hill%20side%20hut.png",
+			"name": "hill side hut",
+			"collections": "hills & valleys",
+			"author": "Wigebox"
+		},
+            {
+			"https://raw.githubusercontent.com/wig-dotcom/MoonlitWalls.json/refs/heads/main/Minimal/soundmode.jpg",
+			"name": "soundmode",
+			"collections": "minimal art",
+			"author": "Wigebox"
+		},
+	    { 
 			"url": "https://raw.githubusercontent.com/wig-dotcom/MoonlitWalls.json/refs/heads/main/Handmade/abode%20in%20desert.png",
 			"name": "abode in desert",
 			"collections": "valleys & deserts",
@@ -62,7 +104,7 @@
 	    {
 			"url": "https://raw.githubusercontent.com/wig-dotcom/MoonlitWalls.json/refs/heads/main/Minimal/shadow%20of%20cruiser.png",
 			"name": "shadow of cruiser",
-			"collections": "mountain & river",
+			"collections": "mountain & rivers",
 			"author": "Wigebox"
 		},
             {
