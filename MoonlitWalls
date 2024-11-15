@@ -1,5 +1,11 @@
 [
         {
+			"url": "https://raw.githubusercontent.com/wig-dotcom/MoonlitWalls.json/refs/heads/main/Minimal/sterioscope.jpg",
+			"name": "sterioscope",
+			"collections": "minimal art",
+			"author": "Wigebox"
+		},
+	    {  
 			"url": "https://raw.githubusercontent.com/wig-dotcom/MoonlitWalls.json/refs/heads/main/Minimal/Gold%20coast.jpg",
 			"name": "gold coast",
 			"collections": "android 14",
