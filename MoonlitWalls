@@ -8,7 +8,7 @@
 	    {  
 			"url": "https://raw.githubusercontent.com/wig-dotcom/MoonlitWalls.json/refs/heads/main/Minimal/Gold%20coast.jpg",
 			"name": "gold coast",
-			"collections": "android 14",
+			"collections": "android14",
 			"author": "Wigebox"
 		},
 	    {
@@ -26,7 +26,7 @@
 	    {
 			"url": "https://raw.githubusercontent.com/wig-dotcom/MoonlitWalls.json/refs/heads/main/Minimal/cool%20garden.jpg",
 			"name": "cool garden",
-			"collections": "android 14",
+			"collections": "android14",
 			"author": "Wigebox"
 		},
 	    {
