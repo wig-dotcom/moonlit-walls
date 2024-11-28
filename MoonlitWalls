@@ -1,8 +1,50 @@
 [
-        {
+       {
+			"url": "https://raw.githubusercontent.com/wig-dotcom/MoonlitWalls.json/refs/heads/main/Minimal/Sandy%20beach.jpg",
+			"name": "sandy beach",
+			"collections": "valleys & deserts",
+			"author": "Wigebox"
+		},
+	    {
+			"url": "https://raw.githubusercontent.com/wig-dotcom/MoonlitWalls.json/refs/heads/main/Minimal/elevated%20barren.png",
+			"name": "eelvated barren",
+			"collections": "serene",
+			"author": "Wigebox"
+		},
+	    {
+			"url": "https://raw.githubusercontent.com/wig-dotcom/MoonlitWalls.json/refs/heads/main/Minimal/jumping%20jack.png",
+			"name": "jumping jack",
+			"collections": "minimal art",
+			"author": "Wigebox"
+		},
+	    {
+			"url": "https://raw.githubusercontent.com/wig-dotcom/MoonlitWalls.json/refs/heads/main/Minimal/little%20superman.png",
+			"name": "little superman",
+			"collections": "minimal art",
+			"author": "Wigebox"
+		},
+	    {
+			"url": "https://raw.githubusercontent.com/wig-dotcom/MoonlitWalls.json/refs/heads/main/Minimal/night%20wave.jpg",
+			"name": "night wave",
+			"collections": "minimal art",
+			"author": "Wigebox"
+		},
+	    {
+			"url": "https://raw.githubusercontent.com/wig-dotcom/MoonlitWalls.json/refs/heads/main/Minimal/peaky%20dunes.jpg",
+			"name": "peaky dunes",
+			"collections": "hills & valleys",
+			"author": "Wigebox"
+		},
+            {
+			"url": "https://raw.githubusercontent.com/wig-dotcom/MoonlitWalls.json/refs/heads/main/Minimal/branching%20antle.png",
+			"name": "branching antle",
+			"collections": "deer",
+			"author": "Wigebox"
+		},
+	    {  
 			"url": "https://raw.githubusercontent.com/wig-dotcom/MoonlitWalls.json/refs/heads/main/Minimal/sterioscope.jpg",
 			"name": "sterioscope",
-			"collections": "minimal art",
+			"collections": "beach side",
 			"author": "Wigebox"
 		},
 	    {  
@@ -236,7 +278,7 @@
             {
 			"url": "https://raw.githubusercontent.com/wig-dotcom/MoonlitWalls.json/main/Minimal/blooms%20of%20nature.png",
 			"name": "blooms of nature",
-			"collections": "sea side",
+			"collections": "seaside",
 			"author": "Wigebox"
 		},
 	    {
@@ -260,7 +302,7 @@
 	    {
 			"url": "https://raw.githubusercontent.com/wig-dotcom/MoonlitWalls.json/main/Minimal/sailing%20coast.png",
 			"name": "sailing coast",
-			"collections": "sea side",
+			"collections": "seaside",
 			"author": "Wigebox"
 		},
 	    {
@@ -894,7 +936,7 @@
 	    {
 			"url": "https://raw.githubusercontent.com/wig-dotcom/MoonlitWalls.json/main/Handmade/Untitled%20design%20(6).png",
 			"name": "scenic view",
-			"collections": "sea side",
+			"collections": "seaside",
 			"author": "Wigebox"
 		},
 	    {
@@ -1003,7 +1045,7 @@
             {
 			"url": "https://github.com/wig-dotcom/MoonlitWalls.json/raw/main/Minimal/Untitled%20design%20(11).png",
 			"name": "spectre rise",
-			"collections": "sea side",
+			"collections": "seaside",
 			"author": "Wigebox"
 		},
 	    {
@@ -1412,7 +1454,7 @@
 	{
 		"url": "https://raw.githubusercontent.com/wig-dotcom/MoonlitWalls.json/main/Handmade/20230718_001809_0000.png",
 		"name": "Serene 60",
-		"collections": "sea side",
+		"collections": "seaside",
 		"author": "Wigebox"
 	},
 	{
