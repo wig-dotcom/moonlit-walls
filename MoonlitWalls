@@ -1,5 +1,23 @@
 [
-      {
+     {
+			"url": "https://raw.githubusercontent.com/wig-dotcom/MoonlitWalls.json/refs/heads/main/Minimal/dwelling%20place.png",
+			"name": "dwelling place",
+			"collections": "minimal art",
+			"author": "Wigebox"
+		},
+	    {
+			"url": "https://raw.githubusercontent.com/wig-dotcom/MoonlitWalls.json/refs/heads/main/Minimal/rocky%20wasteland.png",
+			"name": "rocky wasteland",
+			"collections": "valleys & deserts",
+			"author": "Wigebox"
+		},
+	    {
+			"url": "https://raw.githubusercontent.com/wig-dotcom/MoonlitWalls.json/refs/heads/main/Minimal/snowy%20tops.png",
+			"name": "snowy tops",
+			"collections": "snowipeaks",
+			"author": "Wigebox"
+		},
+            {
 			"url": "https://raw.githubusercontent.com/wig-dotcom/MoonlitWalls.json/refs/heads/main/Handmade/distant%20reverie.png",
 			"name": "distant reverie",
 			"collections": "android14",
