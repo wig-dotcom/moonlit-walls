@@ -1,5 +1,35 @@
 [
-     {
+    {
+			"url": "https://raw.githubusercontent.com/wig-dotcom/MoonlitWalls.json/refs/heads/main/Minimal/celestial%20orbit.png",
+			"name": "celestial orbit",
+			"collections": "minimal art",
+			"author": "Wigebox"
+		},
+	    {
+			"url": "https://raw.githubusercontent.com/wig-dotcom/MoonlitWalls.json/refs/heads/main/Minimal/even%20silence.png",
+			"name": "even silence",
+			"collections": "minimal art",
+			"author": "Wigebox"
+		},
+	    {
+			"url": "https://raw.githubusercontent.com/wig-dotcom/MoonlitWalls.json/refs/heads/main/Minimal/glowing%20serenity.png",
+			"name": "glowing serenity",
+			"collections": "hillside",
+			"author": "Wigebox"
+		},
+	    {
+			"url": "https://raw.githubusercontent.com/wig-dotcom/MoonlitWalls.json/refs/heads/main/Minimal/quite%20motions.png",
+			"name": "quite motions",
+			"collections": "hills & valleys",
+			"author": "Wigebox"
+		},
+	    {
+			"url": "https://raw.githubusercontent.com/wig-dotcom/MoonlitWalls.json/refs/heads/main/Minimal/resting%20hearts.png",
+			"name": "resting hearts",
+			"collections": "hillside",
+			"author": "Wigebox"
+		},
+            {
 			"url": "https://raw.githubusercontent.com/wig-dotcom/MoonlitWalls.json/refs/heads/main/Minimal/dwelling%20place.png",
 			"name": "dwelling place",
 			"collections": "minimal art",
