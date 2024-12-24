@@ -1,4 +1,26 @@
 [
+   {
+		"name": "feeling free",
+		"url": "https://raw.githubusercontent.com/wig-dotcom/MoonlitWalls.json/refs/heads/main/Handmade/feeling%20free%20.png",
+		"thumbnail": "https://raw.githubusercontent.com/wig-dotcom/MoonlitWalls.json/refs/heads/main/Handmade/feeling%20free%20.jpg",
+		"collections": "minimal art",
+		"downloadable": "false"
+    },
+    {
+		"name": "high voult",
+		"url": "https://raw.githubusercontent.com/wig-dotcom/MoonlitWalls.json/refs/heads/main/Handmade/high%20voult.png",
+		"thumbnail": "https://raw.githubusercontent.com/wig-dotcom/MoonlitWalls.json/refs/heads/main/Handmade/high%20voult.jpg",
+		"collections": "minimal art",
+		"downloadable": "false"
+    },
+    {
+		
+                "name": "true companion",
+		"url": "https://raw.githubusercontent.com/wig-dotcom/MoonlitWalls.json/refs/heads/main/Handmade/true%20companion%20.png",
+		"thumbnail": "https://raw.githubusercontent.com/wig-dotcom/MoonlitWalls.json/refs/heads/main/Handmade/true%20companion%20.jpg",
+		"collections": "minimal art",
+		"downloadable": "false"
+    },
     {
 			"url": "https://raw.githubusercontent.com/wig-dotcom/MoonlitWalls.json/refs/heads/main/Minimal/celestial%20orbit.png",
 			"name": "celestial orbit",
