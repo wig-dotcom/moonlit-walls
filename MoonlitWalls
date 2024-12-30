@@ -1,5 +1,55 @@
 [
    {
+		"name": "holy night",
+		"url": "https://raw.githubusercontent.com/wig-dotcom/MoonlitWalls.json/refs/heads/main/Minimal/a%20holy%20night.png",
+		"thumbnail": "https://raw.githubusercontent.com/wig-dotcom/MoonlitWalls.json/refs/heads/main/Minimal/a%20holy%20night.jpg",
+		"collections": "christmas 2025",
+		"downloadable": "false"
+    },
+    {
+		"name": "driving home for chritstmas",
+		"url": "https://raw.githubusercontent.com/wig-dotcom/MoonlitWalls.json/refs/heads/main/Minimal/driving%20home%20for%20christmas.png",
+		"thumbnail": "https://raw.githubusercontent.com/wig-dotcom/MoonlitWalls.json/refs/heads/main/Minimal/driving%20home%20for%20christmas.jpg",
+		"collections": "christmas 2025",
+		"downloadable": "false"
+    },
+    {
+		
+                "name": "jingle bell rock",
+		"url": "https://raw.githubusercontent.com/wig-dotcom/MoonlitWalls.json/refs/heads/main/Minimal/jingle%20bell%20rock.png",
+		"thumbnail": "https://raw.githubusercontent.com/wig-dotcom/MoonlitWalls.json/refs/heads/main/Minimal/jingle%20bell%20rock.jpg",
+		"collections": "christmas 2025",
+		"downloadable": "false"
+    },
+    {
+		"name": "let it snow",
+		"url": "https://raw.githubusercontent.com/wig-dotcom/MoonlitWalls.json/refs/heads/main/Minimal/let%20it%20snow.png",
+		"thumbnail": "https://raw.githubusercontent.com/wig-dotcom/MoonlitWalls.json/refs/heads/main/Minimal/let%20it%20snow.jpg",		
+		"collections": "christmas 2025",
+		"downloadable": "false"
+    },
+    {
+		"name": "ode to joy",
+		"url": "https://raw.githubusercontent.com/wig-dotcom/MoonlitWalls.json/refs/heads/main/Minimal/ode%20to%20joy.png",
+		"thumbnail": "https://raw.githubusercontent.com/wig-dotcom/MoonlitWalls.json/refs/heads/main/Minimal/ode%20to%20joy.jpg",
+		"collections": "christmas 2025",
+		"downloadable": "false"
+    },
+    {
+		"name": "santa on his way",
+		"url": "https://raw.githubusercontent.com/wig-dotcom/MoonlitWalls.json/refs/heads/main/Minimal/santa%20on%20his%20way.png",
+		"thumbnail": "https://raw.githubusercontent.com/wig-dotcom/MoonlitWalls.json/refs/heads/main/Minimal/santa%20on%20his%20way.jpg",
+		"collections": "christmas 2025",
+		"downloadable": "false"
+    },
+    {
+		"name": "winter wonderland",
+		"url": "https://raw.githubusercontent.com/wig-dotcom/MoonlitWalls.json/refs/heads/main/Minimal/winter%20wonderland.png",
+		"thumbnail": "https://raw.githubusercontent.com/wig-dotcom/MoonlitWalls.json/refs/heads/main/Minimal/winter%20wonderland.jpg",
+		"collections": "christmas 2025",
+		"downloadable": "false"
+    },
+    {
 		"name": "feeling free",
 		"url": "https://raw.githubusercontent.com/wig-dotcom/MoonlitWalls.json/refs/heads/main/Handmade/feeling%20free%20.png",
 		"thumbnail": "https://raw.githubusercontent.com/wig-dotcom/MoonlitWalls.json/refs/heads/main/Handmade/feeling%20free%20.jpg",
