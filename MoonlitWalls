@@ -1,5 +1,48 @@
 [
    {
+		"name": "elevated barren",
+		"url": "https://raw.githubusercontent.com/wig-dotcom/MoonlitWalls.json/refs/heads/main/Handmade/elevated%20barren.png",
+		"thumbnail": "https://raw.githubusercontent.com/wig-dotcom/MoonlitWalls.json/refs/heads/main/Handmade/elevated%20barren.jpg",
+		"collections": "hillside",
+		"downloadable": "false"
+    },
+    {
+		"name": "emarald scenery",
+		"url": "https://raw.githubusercontent.com/wig-dotcom/MoonlitWalls.json/refs/heads/main/Handmade/emerald%20scenery.png",
+		"thumbnail": "https://raw.githubusercontent.com/wig-dotcom/MoonlitWalls.json/refs/heads/main/Handmade/emerald%20scenery.jpg",
+		"collections": "hillside",
+		"downloadable": "false"
+    },
+    {
+		
+                "name": "far away",
+		"url": "https://raw.githubusercontent.com/wig-dotcom/MoonlitWalls.json/refs/heads/main/Handmade/far%20away.png",
+		"thumbnail": "https://raw.githubusercontent.com/wig-dotcom/MoonlitWalls.json/refs/heads/main/Handmade/far%20away.jpg",
+		"collections": "beach side",
+		"downloadable": "false"
+    },
+    {
+		"name": "inflight view",
+		"url": "https://raw.githubusercontent.com/wig-dotcom/MoonlitWalls.json/refs/heads/main/Handmade/inflight%20view.png",
+		"thumbnail": "https://raw.githubusercontent.com/wig-dotcom/MoonlitWalls.json/refs/heads/main/Handmade/inflight%20view.jpg",		
+		"collections": "serene",
+		"downloadable": "false"
+    },
+    {
+		"name": "snow majestic",
+		"url": "https://raw.githubusercontent.com/wig-dotcom/MoonlitWalls.json/refs/heads/main/Handmade/snow%20majestic.png",
+		"thumbnail": "https://raw.githubusercontent.com/wig-dotcom/MoonlitWalls.json/refs/heads/main/Handmade/snow%20majestic.jpg",
+		"collections": "christmas 2025",
+		"downloadable": "false"
+    },
+    {
+		"name": "white sand",
+		"url": "https://raw.githubusercontent.com/wig-dotcom/MoonlitWalls.json/refs/heads/main/Handmade/white%20sand.png",
+		"thumbnail": "https://raw.githubusercontent.com/wig-dotcom/MoonlitWalls.json/refs/heads/main/Handmade/white%20sand.jpg",
+		"collections": "beach side",
+		"downloadable": "false"
+    },
+    {
 		"name": "holy night",
 		"url": "https://raw.githubusercontent.com/wig-dotcom/MoonlitWalls.json/refs/heads/main/Minimal/a%20holy%20night.png",
 		"thumbnail": "https://raw.githubusercontent.com/wig-dotcom/MoonlitWalls.json/refs/heads/main/Minimal/a%20holy%20night.jpg",
