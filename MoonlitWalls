@@ -1,5 +1,48 @@
 [
-   {
+  {
+		"name": "crapers in light",
+		"url": "https://raw.githubusercontent.com/wig-dotcom/MoonlitWalls.json/refs/heads/main/Minimal/crapers%20in%20light.png",
+		"thumbnail": "https://raw.githubusercontent.com/wig-dotcom/MoonlitWalls.json/refs/heads/main/Minimal/crapers%20in%20light.jpg",
+		"collections": "minimal art",
+		"downloadable": "false"
+    },
+    {
+		"name": "forest fraction",
+		"url": "https://raw.githubusercontent.com/wig-dotcom/MoonlitWalls.json/refs/heads/main/Minimal/forest%20fraction.png",
+		"thumbnail": "https://raw.githubusercontent.com/wig-dotcom/MoonlitWalls.json/refs/heads/main/Minimal/forest%20fraction.jpg",
+		"collections": "android 14",
+		"downloadable": "false"
+    },
+    {
+		
+                "name": "friction of mind",
+		"url": "https://raw.githubusercontent.com/wig-dotcom/MoonlitWalls.json/refs/heads/main/Minimal/friction%20of%20mind.png",
+		"thumbnail": "https://raw.githubusercontent.com/wig-dotcom/MoonlitWalls.json/refs/heads/main/Minimal/friction%20of%20mind.jpg",
+		"collections": "minimal art",
+		"downloadable": "false"
+    },
+    {
+		"name": "peak fraction",
+		"url": "https://raw.githubusercontent.com/wig-dotcom/MoonlitWalls.json/refs/heads/main/Minimal/peak%20fraction.png",
+		"thumbnail": "https://raw.githubusercontent.com/wig-dotcom/MoonlitWalls.json/refs/heads/main/Minimal/peak%20fraction.jpg",		
+		"collections": "android 14",
+		"downloadable": "false"
+    },
+    {
+		"name": "planet blue",
+		"url": "https://raw.githubusercontent.com/wig-dotcom/MoonlitWalls.json/refs/heads/main/Minimal/planet%20blue.png",
+		"thumbnail": "https://raw.githubusercontent.com/wig-dotcom/MoonlitWalls.json/refs/heads/main/Minimal/planet%20blue.jpg",
+		"collections": "minimal art",
+		"downloadable": "false"
+    },
+    {
+		"name": "sky of fraction",
+		"url": "https://raw.githubusercontent.com/wig-dotcom/MoonlitWalls.json/refs/heads/main/Minimal/sky%20of%20fraction.png",
+		"thumbnail": "https://raw.githubusercontent.com/wig-dotcom/MoonlitWalls.json/refs/heads/main/Minimal/sky%20of%20fraction.jpg",
+		"collections": "android 14",
+		"downloadable": "false"
+    },
+    {
 		"name": "elevated barren",
 		"url": "https://raw.githubusercontent.com/wig-dotcom/MoonlitWalls.json/refs/heads/main/Handmade/elevated%20barren.png",
 		"thumbnail": "https://raw.githubusercontent.com/wig-dotcom/MoonlitWalls.json/refs/heads/main/Handmade/elevated%20barren.jpg",
